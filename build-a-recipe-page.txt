@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>SIGMA COOKIE RECIPE</title>
+    </head>
+    <body>
+        <h1>SIGMA COOKIES</h1>
+          <p>These sigma cookies are sure to pair well alongside your mangoes! Rev' up those fryers and make sure you're ready to be blown away!</p>
+          <h2>Ingredients</h2>
+            <ul>
+              <li>41 MUSTARD</li>
+              <li>6-7 WHOLE MANGOES</li>
+              <li>salt</li>
+              <li>69 RIZZITIES</li>
+            </ul>
+          <h2>Instructions</h2>
+            <ol>
+              <li>Moisturize</li>
+              <li>Prime</li>
+              <li>Correct any mishaps²</li>
+              <li>Add your foundation for the one time</li>
+            </ol>
+        <img src="https://i.kym-cdn.com/entries/icons/original/000/054/350/dark-mago-psychology.jpg" alt="tuff image with aura.">
+    </body>
+  </html>
+
+
+** end of index.html **
+
