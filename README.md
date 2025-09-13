@@ -1,1 +1,0 @@
-# sixsevenytante.github.io
